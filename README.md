@@ -1,5 +1,6 @@
 # COLORIT-Game
 A game made with Javascript, CSS and HTML. **[Best viewed on PC]**  
+Play it here: https://created-by-varun.github.io/COLORIT-Game/  
   
 ![Preview Image](preview.png)
 
